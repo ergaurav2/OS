@@ -1,0 +1,193 @@
+1 ls
+2 ls
+23 ls -l
+234 hello
+235 hellllo
+236 ls -l | wc
+237 !-2
+238 !-1
+239 !-1
+240 !-7
+241 !-5
+242 !-8
+243 !-8
+244 !-8
+245 !-7
+246 ls      |     wc
+247 ls | wc > hello.txt
+248 ls | wc > hello.txt
+249 ls | wc
+250 ls | wc
+251 ls | wc > hello.txt
+252 ls | wc > hello.txt
+253 ls | wc > bb.txt
+254 ls | wc > ss.txt
+255 ls | wc >           bbb.txt
+256 ls -l | wc > bbb.txt
+257 ls -l | wc > bbb.txt
+258 ls | wc > bbb.txt
+259 ls | wc -l > bb.txt
+260 ls -l | wc > hello.txt
+261 ls -l | wc > hello.txt
+262 ls -l | wc > bbb.txt
+263 !-1
+264 !-1
+265 !-2
+266 !-3
+267 !-4
+268 ls -l | wc > bb.txt
+269 ls -l | wc > bb.txt
+270 ls -l | wc > bb.txt
+271 ls -l > b/txt
+272 ls -l > b.txt
+273 ls -l | wc > b.txt
+274 ls -l
+275 ls -l
+276 ls
+277 ls -l < h.txt
+278 wc < h.txt
+279 wc < b.txt
+280 cat < b.txt
+281 wc < b.txt
+282 wc < b.txt
+283 ls -l
+284 ls -l | wc
+285 wc < b.txt
+286 wc < b.txt
+287 wc < b.txt
+288 wc < b.txt
+289 wc < b.txt
+290 wc < b.txt
+291 ls -l > out.txt
+292 ls -l > newout.txt
+292 ls -l > newout.txt
+293 ls
+294 ls -l
+295 ls -l | wc
+296 ls -l > aaaa.txt
+296 ls -l > aaaa.txt
+297 ls -l > aa.out
+297 ls -l > aa.out
+298 ls -l > aaa.txt
+298 ls -l > aaa.txt
+299 ls -l | wc > aa.txt
+300 ls | wc > a.txt
+301 ls -l > aaa.txt
+302 ls -l | wc > new.txt
+303 ls -l > new2.txt
+303 ls -l > new2.txt
+304 ls -l > a.out
+305 ls -l > aaaaaa.txt
+306 cat aaaaaa.txt
+307 ls
+308 cat aaaaaaa.txt?
+309 ls -l > m.txt
+310 cat m.txt
+311 cat b.txt
+312 cat bbb.txt
+313 pwd
+314 cat bbb.txt
+315 ls
+316 cat shellprog.txt
+317 cat shellprog.c
+318 ls > heye.txt
+319 cat heye.txt
+320 ls
+321 cat jj
+322 ls -l > dd.txt
+322 ls -l > dd.txt
+323 ls -l
+324 ls > j.txt
+325 ls
+326 : command not found
+327 j= 1
+327 j= 1
+326 : command not found
+327 j= 1
+327 j= 1
+324 ls > j.txt
+325 ls > j.txt
+326 ls > b.txt
+327 ls -l > gg.txt
+328 wc<test.txt
+329 wc<text.xx
+330 wc<hel.txt
+331 wc<aa.txt
+332 ls>a.txt
+333 wc<test.txt
+334 wc  <   test.txt
+335 wc<test.txt
+336 wc<test.txt
+337 wc <       test.txt
+338 wc <test.txt>out.txt
+339 wc < test.txt > out.txt
+340 history
+341 !339
+342 !wc
+343 !wc
+344 !-2
+345 hello
+346 bye
+347 bye
+348 bye
+349 bye
+349 bye
+350 export a=b
+351 export a-b
+352 export a=b
+353 export a = b
+354 export a=b
+355 export a=b
+356 export a=b
+357 export a=b
+358 export a=b
+359 export a=b
+360 export a=b
+361 export a=b
+362 export a=b
+363 export a=b
+364 export a=b
+365 export  a=b
+366 export a=b
+367 echo $a
+368 export a=b
+369 echo $a
+370 export a=b
+371 echo $a
+372 ls
+373 ls -l
+374 ls -l
+375 ls -R
+376 ls
+377 ls
+378 ls
+379 ls -l
+380 ls -l | wc
+381 ls -l | wc > newww.txt
+382 ls
+383 ls
+384 ls -l
+385 ls -l | wc
+386 ls -l | wc | wc
+387 wc &
+388 ls -l > q.txt
+389 cat q.txt
+390 ls -l>m.txt
+391 ls m*
+392 echo
+393 echo hello
+394 history
+395 !25
+396 history
+397 ls -l
+398 ls -l > bbbbb.txt
+399 history
+400 cd ..
+401 history
+402 history
+403 history
+404 history
+405 history
+406 history
+407 ls | wc
+408 ls -l | wc

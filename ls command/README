@@ -1,0 +1,10 @@
+The different options implemented :
+
+-l : to print the long list description
+-R : to print recursively
+-d : for the  directory information only
+-S : to sort the ouptut on the basis on the size
+-t : to sort on the basis of the last modification time
+
+These options can also be used in the different combinations
+
